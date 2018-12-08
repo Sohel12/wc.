@@ -1,1 +1,1 @@
-# wc.
+# test-vote-bot
